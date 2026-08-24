@@ -1,4 +1,5 @@
-#create a triangle with three variable side_1, side_2,side_3. it also has the variable angle_1,angle_2 and angle_3. initialize the variable with construction. create a class  equi_latteral trangle with cal_area() function. find the tangent of all angles using final_angle() method.
+#create a triangle with three variable side_1, side_2,side_3. it also has the variable angle_1,angle_2 and angle_3. initialize the variable with construction. create a class  equi_latteral trangle with cal_area() function. find the tangent of all angles using final_angle() method.  create a class scale which is the child of triangle class . find the parameter of the triangle with cal_parameter function . find out the area of the triangle with cal_area function.  use the math package for the computation print the area as a whole number not a decimal
+
 import math
 
 
