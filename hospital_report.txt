@@ -1,8 +1,0 @@
-HOSPITAL REPORT
-Patient ID: 554
-Patient Name: was
-Age: 12
-Doctor: dsa
-Disease: hg
-Medicine: hgo
-Total Bill: 3000

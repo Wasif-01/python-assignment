@@ -1,4 +1,0 @@
-Patient ID: 554
-Patient Name: was
-Disease: hg
-Medicine: hgo
