@@ -62,5 +62,3 @@ for j in range(3):
     print("Average of Subject", j + 1, "=", subject_average)
 
 
-    minimum = marks[][2]
-    
