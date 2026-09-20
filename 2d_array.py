@@ -62,3 +62,8 @@ for j in range(3):
     print("Average of Subject", j + 1, "=", subject_average)
 
 
+for i in range (5):
+    if marks[i][1] < 50:
+        marks[i][1]
+
+    
